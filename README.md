@@ -4,6 +4,7 @@ A professional D3.js scatterplot visualization analyzing doping allegations in p
 
 ![Cyclist Data Scatterplot](https://img.shields.io/badge/D3.js-Visualization-orange) ![React](https://img.shields.io/badge/React-18.3.1-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-cyan)
 
+<img width="1920" height="1422" alt="image" src="https://github.com/user-attachments/assets/a26e030f-6cd2-44be-a62e-b20af3486cc9" />
 
 
 ## 📊 Features
@@ -143,4 +144,4 @@ Run tests using the freeCodeCamp test suite included in the application.
 - **freeCodeCamp**: For providing the dataset and project requirements
 - **D3.js Community**: For excellent documentation and examples
 - **React Team**: For the robust frontend framework
-- **Tailwind CSS**: For the utility-first CSS framework# Cyclist-Performance-Data-Visualization
+- **Tailwind CSS**: For the utility-first CSS framework
